@@ -32,7 +32,7 @@ Apart from coding, some other activities that i love to do:
       <img />
       <img />
       <img />
-      <img alt="Drupal Logo" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Drupal-Logo-social-media-those-icons-flat-those-icons.png"/>
+      <img width="24" height="24" alt="Drupal Logo" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Drupal-Logo-social-media-those-icons-flat-those-icons.png"/>
       <img />
       <img />
       <img />
