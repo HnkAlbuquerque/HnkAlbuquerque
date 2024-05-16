@@ -25,7 +25,13 @@ Apart from coding, some other activities that i love to do:
 ## 🚀 Technologies that i use:
 <div>
       <img alt="Php logo" src="https://img.icons8.com/officel/80/000000/php-logo.png"/>
+      <img />
+      <img />
+      <img />
       <img alt="Laravel logo" src="https://img.icons8.com/fluency/48/laravel.png"/>
+      <img />
+      <img />
+      <img />
       <img alt="Drupal Logo" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Drupal-Logo-social-media-those-icons-flat-those-icons.png"/>
       <img />
       <img />
@@ -71,7 +77,7 @@ Apart from coding, some other activities that i love to do:
 
 </p>
 
-## ❤ Views and Followers
+## ❤ Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=HnkAlbuquerque">
 </a>
