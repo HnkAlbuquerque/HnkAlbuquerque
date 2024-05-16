@@ -59,8 +59,6 @@ Apart from coding, some other activities that i love to do:
 <br/>
 <br/>
 
-<a href="https://github.com/Fafaew/github-readme-activity-graph"><img alt="Rafael Gomes Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Fafaew&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
