@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9A6A4D&height=180&section=header&text=Henrique%20Albuquerque&fontColor=F3EFE8&fontSize=44&fontAlignY=38&desc=Software%20Developer%20%C2%B7%206%2B%20yrs%20%C2%B7%20Founder%20%40%20HNK%20SOFTWARE&descSize=16&descAlignY=58&descColor=F3EFE8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9A6A4D&height=180&section=header&text=Henrique%20Albuquerque&fontColor=F3EFE8&fontSize=44&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%2010%2B%20yrs%20%C2%B7%20Founder%20%40%20HNK%20SOFTWARE&descSize=16&descAlignY=58&descColor=F3EFE8" width="100%"/>
 
 <a href="https://github.com/HnkAlbuquerque">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=9A6A4D&center=true&vCenter=true&width=640&lines=6%2B+years+of+web+development;backend+with+PHP%2C+Laravel+%26+Node.js;now+building+mobile+with+Flutter;Fight+Camp+%F0%9F%A5%8A+is+live" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=9A6A4D&center=true&vCenter=true&width=640&lines=10%2B+years+as+a+fullstack+developer;backend+with+PHP%2C+Laravel+%26+Node.js;now+building+mobile+with+Flutter;Fight+Camp+%F0%9F%A5%8A+is+live" alt="typing" />
 </a>
 
 <br/>
@@ -20,9 +20,9 @@
 
 ```ts
 const henrique = {
-  role:     "Software Developer",
+  role:     "Fullstack Developer",
   from:     "Brazil 🇧🇷",
-  exp:      "6+ years in web development",
+  exp:      "10+ years building software",
   company:  "HNK SOFTWARE LTDA (founder)",
   backend:  ["PHP", "Laravel", "Drupal", "Node.js", "NestJS", "TypeScript"],
   mobile:   ["Flutter", "Dart", "Android"],
@@ -33,10 +33,10 @@ const henrique = {
 };
 ```
 
-I'm a software developer from Brazil with **6+ years** building for the web —
-backends in **PHP/Laravel/Drupal** and **Node.js/NestJS**, plus the data and
-infra around them. Now founding **HNK SOFTWARE** and shipping mobile products
-with **Flutter**, starting with **Fight Camp**.
+I'm a fullstack developer from Brazil with **10+ years** shipping software —
+backends in **PHP/Laravel/Drupal** and **Node.js/NestJS**, frontends, plus the
+data and infra around them. Now founding **HNK SOFTWARE** and building mobile
+products with **Flutter**, starting with **Fight Camp**.
 
 **Apart from code:** 🎮 video games · 🏃 sports · 💹 financial markets.
 
